@@ -1,0 +1,23 @@
+{
+  "name": "ecoregistry",
+  "version": "1.0.0",
+  "description": "Credit provider simulator",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarbonTrader/Ecoregistry.git"
+  },
+  "author": "@monotera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarbonTrader/Ecoregistry/issues"
+  },
+  "homepage": "https://github.com/CarbonTrader/Ecoregistry#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
