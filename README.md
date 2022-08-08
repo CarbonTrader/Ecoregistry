@@ -7,3 +7,7 @@ Simulated credit provider
 `npm i`
 
 `npm start`
+
+# URL
+
+`https://api-credit-provider.herokuapp.com/`
